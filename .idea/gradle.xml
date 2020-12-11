@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Problems/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Problems/Countdown counter" />
+            <option value="$PROJECT_DIR$/Problems/Counting number of instances" />
+            <option value="$PROJECT_DIR$/Problems/Finding the max number" />
+            <option value="$PROJECT_DIR$/Problems/Hip-Hop" />
+            <option value="$PROJECT_DIR$/Problems/Iterable range" />
+            <option value="$PROJECT_DIR$/Problems/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Problems/No  J" />
+            <option value="$PROJECT_DIR$/Problems/Remove elements of a collection" />
+            <option value="$PROJECT_DIR$/Problems/Reversed list" />
+            <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Problems/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Text Editor/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
